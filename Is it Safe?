@@ -1,0 +1,1 @@
+After using TowelRoot, you're temporarily exposed to a major vulnerability. Specifically, you need to download a root management app like SuperSU to give root permissions only to apps that need it. Otherwise, any app you use could gain root privileges without your permission – which poses a major security risk.
